@@ -1,0 +1,12 @@
+{
+2  "name": "mern_532_a1",
+3  "version": "1.0.0",
+4  "description": "",
+5  "main": "index.js",
+6  "scripts": {
+7    "test": "echo \"Error: no test specified\" && exit 1"
+8  },
+9  "keywords": [],
+10  "author": "",
+11  "license": "ISC"
+12}
